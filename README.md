@@ -1,1 +1,1 @@
-# typing-speed-test-game
+# Typing-Speed-Game with JavaScript
